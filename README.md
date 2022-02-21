@@ -13,4 +13,6 @@ This installs the required dependencies
 
 ### `npm start`
 
+You are done! Now you can start editing the React project in the new folder that's created.
+
 
